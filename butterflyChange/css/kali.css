@@ -1,0 +1,74 @@
+/* logo字体 */
+@font-face {
+  font-family: '站酷快乐体2016修订版';
+  font-display: swap;
+  /* src: url('/butterflyChange/fonts/站酷文艺体.ttf') format("truetype"); */
+  src: url('https://cdn.jsdelivr.net/gh/kali65536/kali65536.github.io/butterflyChange/fonts/站酷快乐体2016修订版.ttf') format("truetype");
+}
+/* 图标 */
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_1907451_ctuh6m5o61.eot?t=1593927954910'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_1907451_ctuh6m5o61.eot?t=1593927954910#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAXQAAsAAAAACtQAAAWCAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDSAqISIcAATYCJAMYCw4ABCAFhG0HVxs1CVGUTk6f7KcmT5bRLj/OBnxIw8BAIAQAFgAAmGBCWkji4d/90PuS/BQAFKDsqUVWtXXtSE9NmKnN+AlHYNw8C7//f3P6Syxr/4hCraoasw/8S6/hy5Wen9NTakJuwgG6DuGlScmgAlLjUdj/m5PNuXQUgglodHNF5geX0/+GbbB59pbLmsOmDQwwDiigMQaPiQVaYrFm1IKeQTUnhXDN2wl0m7cpc3B4fg9lhSgCc55x14Rywah00EOnpjZMLeI1ZZ3pZTqAV9Hn4x8YUSZpMhl6c3/gwPZPNMuyVqYwQIiWs8OaRcYGUIgXjc7ncklyQ0739RvyzoBenZLyE9Prapm1LQWpeEOvOig7FC3440XFyl4kXqQafqKHUfipYyR+djEafrcwMr9n4qelrdRlBMQlQHwHIW1wVultalZm5uv5rq7eLaUd7DNUrUbfWCO4MY2VMww+OoqWNcTDAEBqaQ1aQjJwvhShwzgmltJ0S6xglEJF/v8b1aQAlAdoREOHwZRHcV2AKtHNuso6ol2H5Iepg7IDYnKNbC21Xr5ugGVzOU4kCBKeL2I2YYANWwkgeocG6bAC1mCwFeQuZr3jIR6nNyDkvMW4xJMRMvaftAfoRQ5xF4GFcwYYrDyfIRFpKT0HLZPSK/GKMkDho1j+akdHwJZXUHw581hUCjhNi4rRHgrlefGKS8u4tFzJypOawHEeLAjilWtla8h18vW5aF+8nsqpmvrwj1VM7XYUiQ8L5UybQrPeIiETW40WJ0tSgiDneZJly+bxAWJm1Yo5qGgFki/03spJBKF67kn/tY4v33SKZY8s2Z9KxPa8i3KPjzueXffYWkFxcXlYgv3jaL11WeEOPjZxyrnm71U6le8eppA4W40ypK77kHXsNcY9/oKvv6F/Vcd0E6RTsbXjq7t24bFKFz+0Jut+CA5x3mp9zfr974h3ye+T/yf/s5uAXnS54HLH5S5klSMOKv35o3RQecj3pdlDFOLou4oG2nGZor/KKketMT09SLt0SxaxzKz0iZ5WNKxwFyi5DYWjMWYO+tS/m4fS8rH/4qUCzLGY8EZzKPL7i/OSfPMJRCKSSDxsuiSnW+Vxerax5jjn7frMPho+3cbhmsmaZjkvnXx1Pe9oyhF99fh6+zPW3rf0VuhMHav6uBpaoKP7EC/Z2NsFj1XYQiu0EkTdGovCJv+dweZX4MU2CjWzKX+JXqxtrt0Ou+MnE5AditvtcgtXpf7n0tGRRrgNBjK4BC4FI20w/rIq1wNL+xyWX1ywxNrIRtMg2sh7kYqmMzwK+mPtAGWkjicz5k/OSBu/xJVNTuRk6YDPXC8Ttkv9f3oMc8/dfb4ofku2iG+yrRg2TTFLtkxoNEtcZhqrS9h9fngf0XQI+9YwCEHaf+22oqiYRrojOZUTRRTMVuURAPltAtD+zna50j+7mzcPT4KSVth/p+avPfJjZcNR6bRUp8Rg0f9YX+AO5L/0JhFDLRc+l0fiaWHV3RcfT+hWLy15h70tpR37Q6RDp7EMkg5zkHVaQAtxAxo9NuWVidvQbd3R7B4jhJwoXVjzhBAGPUPS7xNkg17QQnyFxrh3WUVy5KDbbRgu2WMpeDVGkCnJQWuK3I5C5lpkNc69JXfomyIviRiPJFIeQV3RypkjCkksMSIduYaUDJmIAjyE3cj3I4xFNCBbKn0p456qsqYzKXYUQNU+gZgk4kCWKcTZIiEW1JaqlfffIq4hn0l0VLxyPyJCijeOdAptAHqkDAdVPEpxasRlkBRnELOyIwF0SHbiazKC4uZOA8QmKfoT4rEelaqxoUple3XwKtdBNzl4jRQ5SjRRo0Pnsen7JKZb2ZubalviRaE74GZY7CE+4WGpLZkGAZ8AAAAA') format('woff2'),
+  url('//at.alicdn.com/t/font_1907451_ctuh6m5o61.woff?t=1593927954910') format('woff'),
+  url('//at.alicdn.com/t/font_1907451_ctuh6m5o61.ttf?t=1593927954910') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_1907451_ctuh6m5o61.svg?t=1593927954910#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 24px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Gallery-:before {
+  content: "\e8fc";
+}
+
+.icon-QQ:before {
+  content: "\e631";
+}
+
+.icon-qqkongjian:before {
+  content: "\e80f";
+}
+
+.icon-weixin:before {
+  content: "\e620";
+}
+
+.icon-qqyinle:before {
+  content: "\e634";
+}
+
+
+/* aplayer样式 */
+<style>
+            .aplayer .aplayer-list ol li .aplayer-list-index {
+              color: #0e0d0d;
+              float: left;
+            }
+            .aplayer .aplayer-list ol li {
+              color: rgb(1, 86, 245);
+            }
+            .aplayer .aplayer-info .aplayer-music .aplayer-title {
+              color: rgb(237, 205, 100);
+            }
+            .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+              left: -66px !important;
+            }
+            .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+              left: 0 !important;
+            }
+            .aplayer
+              .aplayer-info
+              .aplayer-controller
+              .aplayer-time
+              .aplayer-icon
+              path {
+              fill: rgb(255, 0, 0);
+            }
+          </style>
+          

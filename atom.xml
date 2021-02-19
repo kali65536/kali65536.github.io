@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>༺小张博客༻</title>
+  <icon>https://kali.js.org/icon.png</icon>
+  <subtitle>遇见更好的自己</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://kali.js.org/"/>
+  <updated>2021-02-19T10:06:09.121Z</updated>
+  <id>https://kali.js.org/</id>
+  
+  <author>
+    <name>kali</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>双系统初体验2021年春节</title>
+    <link href="https://kali.js.org/2021/02/18/%E5%8F%8C%E7%B3%BB%E7%BB%9F%E5%88%9D%E4%BD%93%E9%AA%8C2021%E5%B9%B4%E6%98%A5%E8%8A%82/"/>
+    <id>https://kali.js.org/2021/02/18/%E5%8F%8C%E7%B3%BB%E7%BB%9F%E5%88%9D%E4%BD%93%E9%AA%8C2021%E5%B9%B4%E6%98%A5%E8%8A%82/</id>
+    <published>2021-02-18T22:09:15.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src= &quot;https://cdn.jsdelivr.net/gh/kali65536/PicGo@latest/2020/07/07/a4f10a24d98986898e44515668a05cc0.png&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="系统" scheme="https://kali.js.org/categories/%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+      <category term="-linux" scheme="https://kali.js.org/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自动控制原理笔记</title>
+    <link href="https://kali.js.org/2020/12/14/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E7%AC%94%E8%AE%B0/"/>
+    <id>https://kali.js.org/2020/12/14/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-12-14T14:27:50.000Z</published>
+    <updated>2021-02-19T10:06:09.125Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src= &quot;https://cdn.jsdelivr.net/gh/kali65536/PicGo@latest/2020/07/07/a4f10a24d98986898e44515668a05cc0.png&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="自控" scheme="https://kali.js.org/categories/%E8%87%AA%E6%8E%A7/"/>
+    
+    
+      <category term="-自控 -板书" scheme="https://kali.js.org/tags/%E8%87%AA%E6%8E%A7-%E6%9D%BF%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>高数</title>
+    <link href="https://kali.js.org/2020/11/13/%E8%80%83%E7%A0%94%E9%AB%98%E6%95%B0/"/>
+    <id>https://kali.js.org/2020/11/13/%E8%80%83%E7%A0%94%E9%AB%98%E6%95%B0/</id>
+    <published>2020-11-13T21:20:30.000Z</published>
+    <updated>2021-02-19T10:06:09.125Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src= &quot;https://cdn.jsdelivr.net/gh/kali65536/PicGo@latest/2020/07/07/a4f10a24d98986898e44515668a05cc0.png&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="-张宇 -武忠祥 -高数 -考研" scheme="https://kali.js.org/tags/%E5%BC%A0%E5%AE%87-%E6%AD%A6%E5%BF%A0%E7%A5%A5-%E9%AB%98%E6%95%B0-%E8%80%83%E7%A0%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>单片机</title>
+    <link href="https://kali.js.org/2020/10/20/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    <id>https://kali.js.org/2020/10/20/%E5%8D%95%E7%89%87%E6%9C%BA/</id>
+    <published>2020-10-20T21:15:31.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;中断&quot;&gt;&lt;a href=&quot;#中断&quot; class=&quot;headerlink&quot; title=&quot;中断&quot;&gt;&lt;/a&gt;中断&lt;/h1&gt;&lt;p&gt;“interrupt
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="-C51" scheme="https://kali.js.org/tags/C51/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电路重点</title>
+    <link href="https://kali.js.org/2020/09/24/%E7%94%B5%E8%B7%AF%E9%87%8D%E7%82%B9/"/>
+    <id>https://kali.js.org/2020/09/24/%E7%94%B5%E8%B7%AF%E9%87%8D%E7%82%B9/</id>
+    <published>2020-09-24T18:51:51.000Z</published>
+    <updated>2021-02-19T10:06:09.125Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;电路模型&quot;&gt;&lt;a href=&quot;#电路模型&quot; class=&quot;headerlink&quot; title=&quot;电路模型&quot;&gt;&lt;/a&gt;电路模型&lt;/h1&gt;&lt;h2 id=&quot;习题&quot;&gt;&lt;a href=&quot;#习题&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="电气" scheme="https://kali.js.org/categories/%E7%94%B5%E6%B0%94/"/>
+    
+    
+      <category term="-电路 -词汇" scheme="https://kali.js.org/tags/%E7%94%B5%E8%B7%AF-%E8%AF%8D%E6%B1%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>wget 与 curl 命令详解</title>
+    <link href="https://kali.js.org/2020/08/18/wget/"/>
+    <id>https://kali.js.org/2020/08/18/wget/</id>
+    <published>2020-08-18T22:55:02.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;wsl-或者-linux&quot;&gt;&lt;a href=&quot;#wsl-或者-linux&quot; class=&quot;headerlink&quot; title=&quot;wsl 或者 linux&quot;&gt;&lt;/a&gt;wsl 或者 linux&lt;/h1&gt;&lt;p&gt;&lt;img src=
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="-wget -curl -linux" scheme="https://kali.js.org/tags/wget-curl-linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>bat文件</title>
+    <link href="https://kali.js.org/2020/08/11/bat%E6%96%87%E4%BB%B6/"/>
+    <id>https://kali.js.org/2020/08/11/bat%E6%96%87%E4%BB%B6/</id>
+    <published>2020-08-11T20:54:14.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;bat&quot;&gt;&lt;a href=&quot;#bat&quot; class=&quot;headerlink&quot; title=&quot;bat&quot;&gt;&lt;/a&gt;bat&lt;/h1&gt;&lt;p&gt;bat文件是dos下的&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="dos命令" scheme="https://kali.js.org/categories/dos%E5%91%BD%E4%BB%A4/"/>
+    
+    
+      <category term="-bat" scheme="https://kali.js.org/tags/bat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Node.js</title>
+    <link href="https://kali.js.org/2020/08/10/Node-js/"/>
+    <id>https://kali.js.org/2020/08/10/Node-js/</id>
+    <published>2020-08-10T19:51:36.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Node-js官网&quot;&gt;&lt;a href=&quot;#Node-js官网&quot; class=&quot;headerlink&quot; title=&quot;Node.js官网&quot;&gt;&lt;/a&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="-Node.js" scheme="https://kali.js.org/tags/Node-js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ps</title>
+    <link href="https://kali.js.org/2020/08/09/ps/"/>
+    <id>https://kali.js.org/2020/08/09/ps/</id>
+    <published>2020-08-09T15:29:54.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;个人名片制作&quot;&gt;&lt;a href=&quot;#个人名片制作&quot; class=&quot;headerlink&quot; title=&quot;[个人名片制作]&quot;&gt;&lt;/a&gt;[个人名片制作]&lt;/h1&gt;&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="ps" scheme="https://kali.js.org/categories/ps/"/>
+    
+    
+      <category term="-ps技巧" scheme="https://kali.js.org/tags/ps%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue</title>
+    <link href="https://kali.js.org/2020/08/09/vue/"/>
+    <id>https://kali.js.org/2020/08/09/vue/</id>
+    <published>2020-08-09T15:08:56.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;vue抖音项目持续部署&quot;&gt;&lt;a href=&quot;#vue抖音项目持续部署&quot; class=&quot;headerlink&quot; title=&quot;vue抖音项目持续部署&quot;&gt;&lt;/a&gt;&lt;strong&gt;vue抖音项目持续部署&lt;/strong&gt;&lt;/h1&gt;&lt;h2 id=&quot;概述&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="持续部署" scheme="https://kali.js.org/categories/%E6%8C%81%E7%BB%AD%E9%83%A8%E7%BD%B2/"/>
+    
+    
+      <category term="-vue -netlify" scheme="https://kali.js.org/tags/vue-netlify/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《一位吉他手的日记》</title>
+    <link href="https://kali.js.org/2020/08/04/%E3%80%8A%E4%B8%80%E4%BD%8D%E5%90%89%E4%BB%96%E6%89%8B%E7%9A%84%E6%97%A5%E8%AE%B0%E3%80%8B/"/>
+    <id>https://kali.js.org/2020/08/04/%E3%80%8A%E4%B8%80%E4%BD%8D%E5%90%89%E4%BB%96%E6%89%8B%E7%9A%84%E6%97%A5%E8%AE%B0%E3%80%8B/</id>
+    <published>2020-08-04T14:27:41.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;2008年8月1日&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;暑假真的好无聊啊，今天没什么事情做，跟爸爸一起看了《路边吉他队》，又有点想学吉他了，班上的李天龙也在学吉他，上次他把吉他带过来，班上好多女生都围着他转，切……&lt;/p&gt;
+&lt;p&gt;好像有多牛一样，不就是几根破铁丝
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="-音乐 -吉他手" scheme="https://kali.js.org/tags/%E9%9F%B3%E4%B9%90-%E5%90%89%E4%BB%96%E6%89%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网页美化</title>
+    <link href="https://kali.js.org/2020/08/04/%E7%BD%91%E9%A1%B5%E4%BC%98%E5%8C%96/"/>
+    <id>https://kali.js.org/2020/08/04/%E7%BD%91%E9%A1%B5%E4%BC%98%E5%8C%96/</id>
+    <published>2020-08-04T11:49:36.000Z</published>
+    <updated>2021-02-19T10:06:09.125Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;h1 id=&quot;外链引入&quot;&gt;&lt;a href=&quot;#外链引入&quot; class=&quot;headerlink&quot; title=&quot;外链引入&quot;&gt;&lt;/a&gt;外链引入&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="-特效" scheme="https://kali.js.org/tags/%E7%89%B9%E6%95%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电子技术操作与工艺实习</title>
+    <link href="https://kali.js.org/2020/08/01/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E6%93%8D%E4%BD%9C%E4%B8%8E%E5%B7%A5%E8%89%BA%E5%AE%9E%E4%B9%A0/"/>
+    <id>https://kali.js.org/2020/08/01/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E6%93%8D%E4%BD%9C%E4%B8%8E%E5%B7%A5%E8%89%BA%E5%AE%9E%E4%B9%A0/</id>
+    <published>2020-08-01T10:25:36.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;收音机&quot;&gt;&lt;a href=&quot;#收音机&quot; class=&quot;headerlink&quot; title=&quot;收音机&quot;&gt;&lt;/a&gt;收音机&lt;/h1&gt;&lt;h2 id=&quot;门铃电路&quot;&gt;&lt;a href=&quot;#门铃电路&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="电工常备" scheme="https://kali.js.org/categories/%E7%94%B5%E5%B7%A5%E5%B8%B8%E5%A4%87/"/>
+    
+    
+      <category term="-电子工艺" scheme="https://kali.js.org/tags/%E7%94%B5%E5%AD%90%E5%B7%A5%E8%89%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>优雅部署</title>
+    <link href="https://kali.js.org/2020/07/29/%E4%BC%98%E9%9B%85%E9%83%A8%E7%BD%B2/"/>
+    <id>https://kali.js.org/2020/07/29/%E4%BC%98%E9%9B%85%E9%83%A8%E7%BD%B2/</id>
+    <published>2020-07-29T09:28:43.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;使用-Cloud-Studio-在线搭建、编辑、部署-Hexo&quot;&gt;&lt;a href=&quot;#使用-Cloud-Studio-在线搭建、编辑、部署-Hexo&quot; class=&quot;headerlink&quot; title=&quot;使用 Cloud Studio 在线搭建、编辑、部署
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>必备词汇</title>
+    <link href="https://kali.js.org/2020/07/29/%E5%BF%85%E5%A4%87%E8%AF%8D%E6%B1%87/"/>
+    <id>https://kali.js.org/2020/07/29/%E5%BF%85%E5%A4%87%E8%AF%8D%E6%B1%87/</id>
+    <published>2020-07-29T09:24:06.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;7000单词&quot;&gt;&lt;a href=&quot;#7000单词&quot; class=&quot;headerlink&quot; title=&quot;7000单词&quot;&gt;&lt;/a&gt;7000单词&lt;/h1&gt;&lt;p&gt;&lt;img src=
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="-单词" scheme="https://kali.js.org/tags/%E5%8D%95%E8%AF%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>工具制造</title>
+    <link href="https://kali.js.org/2020/07/26/%E5%B7%A5%E5%85%B7%E5%88%B6%E9%80%A0/"/>
+    <id>https://kali.js.org/2020/07/26/%E5%B7%A5%E5%85%B7%E5%88%B6%E9%80%A0/</id>
+    <published>2020-07-26T22:42:51.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;去不图床PicGo上传插件的使用&quot;&gt;&lt;a href=&quot;#去不图床PicGo上传插件的使用&quot; class=&quot;headerlink&quot; title=&quot;去不图床PicGo上传插件的使用&quot;&gt;&lt;/a&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="-炸弹 -图床" scheme="https://kali.js.org/tags/%E7%82%B8%E5%BC%B9-%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谷歌插件</title>
+    <link href="https://kali.js.org/2020/07/26/%E8%B0%B7%E6%AD%8C%E6%8F%92%E4%BB%B6/"/>
+    <id>https://kali.js.org/2020/07/26/%E8%B0%B7%E6%AD%8C%E6%8F%92%E4%BB%B6/</id>
+    <published>2020-07-26T13:12:33.000Z</published>
+    <updated>2021-02-19T10:06:09.125Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;微博图床&quot;&gt;&lt;a href=&quot;#微博图床&quot; class=&quot;headerlink&quot; title=&quot;微博图床&quot;&gt;&lt;/a&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="插件" scheme="https://kali.js.org/categories/%E6%8F%92%E4%BB%B6/"/>
+    
+    
+      <category term="-插件 -谷歌" scheme="https://kali.js.org/tags/%E6%8F%92%E4%BB%B6-%E8%B0%B7%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AndroidStudio</title>
+    <link href="https://kali.js.org/2020/07/22/AndroidStudio/"/>
+    <id>https://kali.js.org/2020/07/22/AndroidStudio/</id>
+    <published>2020-07-22T17:09:48.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;AndroidStudioProject-模式下的项目结构。&quot;&gt;&lt;a href=&quot;#AndroidStudioProject-模式下的项目结构。&quot; class=&quot;headerlink&quot; title=&quot;AndroidStudioProject
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="-安卓 -开发 -java" scheme="https://kali.js.org/tags/%E5%AE%89%E5%8D%93-%E5%BC%80%E5%8F%91-java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>github项目</title>
+    <link href="https://kali.js.org/2020/07/15/github%E9%A1%B9%E7%9B%AE/"/>
+    <id>https://kali.js.org/2020/07/15/github%E9%A1%B9%E7%9B%AE/</id>
+    <published>2020-07-15T23:26:19.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;GitHub单个文件夹下载&quot;&gt;&lt;a href=&quot;#GitHub单个文件夹下载&quot; class=&quot;headerlink&quot; title=&quot;GitHub单个文件夹下载&quot;&gt;&lt;/a&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="github" scheme="https://kali.js.org/categories/github/"/>
+    
+    
+      <category term="-计算机 -github" scheme="https://kali.js.org/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA-github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>my music mv</title>
+    <link href="https://kali.js.org/2020/07/07/my-qqmusic-mv/"/>
+    <id>https://kali.js.org/2020/07/07/my-qqmusic-mv/</id>
+    <published>2020-07-07T21:57:06.000Z</published>
+    <updated>2021-02-19T10:06:09.121Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;不必在乎我是谁&quot;&gt;&lt;a href=&quot;#不必在乎我是谁&quot; class=&quot;headerlink&quot; title=&quot;不必在乎我是谁&quot;&gt;&lt;/a&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="音乐 吉他" scheme="https://kali.js.org/categories/%E9%9F%B3%E4%B9%90-%E5%90%89%E4%BB%96/"/>
+    
+    
+      <category term="-kali-何必在乎我是谁cover李宗盛(超清)" scheme="https://kali.js.org/tags/kali-%E4%BD%95%E5%BF%85%E5%9C%A8%E4%B9%8E%E6%88%91%E6%98%AF%E8%B0%81cover%E6%9D%8E%E5%AE%97%E7%9B%9B-%E8%B6%85%E6%B8%85/"/>
+    
+  </entry>
+  
+</feed>
